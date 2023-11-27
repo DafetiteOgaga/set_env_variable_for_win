@@ -38,17 +38,17 @@ This file contains the notable changes made to the Custom Commands project.
 <br>
 
 ## New
-	- Added the option to view or add paths to the environmental variables
+   - Added the option to view or add paths to the environmental variables
    - Added support to list environmental variables paths
    - works on windows and linux systems
 
 
 ## Changes
-	- Minor changes to enhance performance
+   - Minor changes to enhance performance
 
 
 ## Fixes
-	- Bug fixes
+   - Bug fixes
 
 
 
